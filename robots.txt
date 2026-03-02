@@ -1,16 +1,25 @@
 # Fun Games Outbound Batu Malang – robots.txt
-# https://fungamesoutbound-batumalang.com/
+# https://fungames-outbound-batumalang.netlify.app/
 
 User-agent: *
 Allow: /
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/img/
 
 # Sitemap
-Sitemap: https://fungamesoutbound-batumalang.com/sitemap.xml
+Sitemap: https://fungames-outbound-batumalang.netlify.app/sitemap.xml
 
-# Crawl-delay (optional, for polite crawlers)
-Crawl-delay: 5
+# Special instructions for AI Bots (AEO/GEO Optimization)
+User-agent: Google-Extended
+Allow: /
 
-# Disallow irrelevant paths
-Disallow: /assets/
-Disallow: /*.css$
-Disallow: /*.js$
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Disallow common junk
+Disallow: /?s=*
+Disallow: /search/
