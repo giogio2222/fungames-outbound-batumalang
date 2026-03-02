@@ -1,0 +1,16 @@
+# Fun Games Outbound Batu Malang – robots.txt
+# https://fungamesoutbound-batumalang.com/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://fungamesoutbound-batumalang.com/sitemap.xml
+
+# Crawl-delay (optional, for polite crawlers)
+Crawl-delay: 5
+
+# Disallow irrelevant paths
+Disallow: /assets/
+Disallow: /*.css$
+Disallow: /*.js$

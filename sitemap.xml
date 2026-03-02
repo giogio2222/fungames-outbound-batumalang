@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:schema="https://schema.org/"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://fungamesoutbound-batumalang.com/</loc>
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Blog Page -->
+  <url>
+    <loc>https://fungamesoutbound-batumalang.com/blog.html</loc>
+    <lastmod>2025-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Article 1 -->
+  <url>
+    <loc>https://fungamesoutbound-batumalang.com/paket-fun-games-outbound-terbaik-batu-malang.html</loc>
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 2 -->
+  <url>
+    <loc>https://fungamesoutbound-batumalang.com/tips-team-building-outbound-batu-malang.html</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 3 -->
+  <url>
+    <loc>https://fungamesoutbound-batumalang.com/wisata-outbound-keluarga-batu-malang.html</loc>
+    <lastmod>2025-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 4 -->
+  <url>
+    <loc>https://fungamesoutbound-batumalang.com/permainan-outbound-seru-untuk-siswa-malang.html</loc>
+    <lastmod>2025-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 5 -->
+  <url>
+    <loc>https://fungamesoutbound-batumalang.com/harga-paket-outbound-murah-batu-malang.html</loc>
+    <lastmod>2025-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+</urlset>
